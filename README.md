@@ -16,4 +16,4 @@ Business Understanding --> Data Collection --> Data Cleaning --> Data Analysis -
 6. Deployment
 
 # Getting started
-1. Download the file and run i
+1. Download the file and run
